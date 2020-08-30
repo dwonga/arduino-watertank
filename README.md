@@ -11,7 +11,15 @@ Esta es la versión 2, donde se mejoró lo siguiente:
 - Lolin v3 ESP8266 en lugar del arduino uno. Esto permite que pueda mostrar la información en una página web en lugar de un LCD.
 
 Los requerimientos son: 
-- Sensor JSN-SR04T
+- Dos sensores JSN-SR04T (puede trabajar con uno solo, si solo tienes un tanque de agua)
 https://www.aliexpress.com/item/4001111845577.html?spm=a2g0o.productlist.0.0.62c11421J924eN&s=p&ad_pvid=202008301640045026365450573250027294546_1&algo_pvid=9a5c3ad0-2240-4033-919c-59bd97830a35&algo_expid=9a5c3ad0-2240-4033-919c-59bd97830a35-0&btsid=0ab6fab215988308041497889ec192&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_
 - NodeMCU (versión v3 Lolin):
 https://www.aliexpress.com/item/32951391024.html?spm=a2g0o.productlist.0.0.bd8852e4aniPb7&algo_pvid=09b6a731-60d0-4e66-9d4f-7524896e5e74&algo_expid=09b6a731-60d0-4e66-9d4f-7524896e5e74-0&btsid=0ab50f6115988310496925215e0ca8&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_
+
+La versión 1:
+- Sensor SNR-04 o JSN-SR04T (dos, uno para tanque superior, otro para tanque inferior)
+- Arduino Uno
+- Crystal led 16x2 caracteres estándar.
+
+Ambas versiones están disponibles aquí.
+
