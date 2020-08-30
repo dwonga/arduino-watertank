@@ -20,4 +20,5 @@ La versión 1 requiere:
 - Sensor SNR-04 o JSN-SR04T (dos, uno para tanque superior, otro para tanque inferior. Si solo tienes un tanque descarta todo lo que diga upper tank)
 - Arduino Uno
 - Crystal led 16x2 caracteres estándar.
+- Si usas SNR-04 aquí diseñé una caja especial que puedes imprimir (https://www.thingiverse.com/thing:2917913) pero realmente te sugiero que si puedes, optes por el JSN-SR04T ya que te durará mas.
 
