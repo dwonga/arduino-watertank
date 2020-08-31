@@ -51,9 +51,9 @@ Requiere una unidad compatible con ESP8266 (yo usé una NodeMCU v3 Lolin)
     String infoSensorInf;  // Estado web sensor inferior
     String infoSensorSup; // Estado web sensor superior
 
-// Clave wifi del AP del domicilio
-const char* ssid = "dpto-david";
-const char* password = "11111111";
+// Clave wifi del AP del lugar
+const char* ssid = "wifi-ap";
+const char* password = "wifipass";
 
 ESP8266WebServer server(80);
 
